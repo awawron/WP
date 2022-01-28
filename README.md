@@ -4,7 +4,7 @@
 >
 > I think I'll use it to format all of my documents from now on.
 
-This is the third paragraph
+~~This is the third paragraph~~
 
 And this is a list
 1. List item 1
@@ -34,5 +34,5 @@ Tutaj jest troche c++:
 
     }
     
-    
+Pain:
 ![Pain](pain.png)
