@@ -23,7 +23,7 @@ And this is list 2
 - List item 2.4
 
 Tutaj jest troche c++:
-
+```c++
     #include <iostream>
 
     int main() {
@@ -33,6 +33,6 @@ Tutaj jest troche c++:
       return 0;
 
     }
-    
+```    
 Pain:
 ![Pain](pain.png)
